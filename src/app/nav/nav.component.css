@@ -1,0 +1,10 @@
+.navbar-nav > li{
+    padding-left:40px;
+    padding-right:40px;
+  }
+  a:hover{
+    background-color: rgb(155, 155, 155);
+    color: rgb(255, 255, 255);
+
+  }
+ 
